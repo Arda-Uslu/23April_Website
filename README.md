@@ -1,5 +1,5 @@
-# I made a website about National Sovereignty and Children's Day.
+# National Sovereignty and Children's Day
 ## It has turkish and english language versions.
 
-# 23 Nisan bayramı ile ilgili site yaptım.
+# 23 Nisan Bayramı
 ## Türkçe ve ingilizce versiyonlara sahip.
